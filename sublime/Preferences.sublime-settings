@@ -1,0 +1,53 @@
+{
+  "bold_folder_labels": true,
+  "caret_style": "smooth",
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+  "fallback_encoding": "UTF-8",
+  "binary_file_patterns":
+  [
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.gif",
+    "*.ttf",
+    "*.tga",
+    "*.dds",
+    "*.ico",
+    "*.eot",
+    "*.pdf",
+    "*.swf",
+    "*.jar",
+    "*.zip",
+    "*.svg",
+    "*.eot",
+    "*.woff"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "node_modules",
+    ".sass-cache"
+  ],
+  "font_face": "Source Code Pro",
+  "font_size": 13.0,
+  "gpu_window_buffer": true,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage",
+    "BracketHighlighter"
+  ],
+  "indent_guide_options":
+  [
+    "draw_active"
+  ],
+  "save_on_focus_lost": false,
+  "tab_size": 2,
+  "theme": "Soda Light.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false
+}
